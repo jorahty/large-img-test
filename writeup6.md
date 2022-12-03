@@ -1,4 +1,4 @@
-# Lab 4 Writeup
+# Lab 6 Writeup
 - James Tennant
 - 2 December 2022
 - Section A

@@ -101,8 +101,16 @@ lab again, I can't say I would do much differently.
 
 ![](logic.png)
 
-*My logic network for* $\text{Part II}$
+<div style="color: red">
+
+My logic network for $\text{Part II}$
+
+</div>
 
 ![](wiring.png)
+  
+<div style="color: red">
 
-*My wireing diagram for* $\text{Part II}$
+My wireing diagram for $\text{Part II}$
+
+</div>

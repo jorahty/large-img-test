@@ -101,18 +101,8 @@ lab again, I can't say I would do much differently.
 
 ![](logic.png)
 
-<div style="text-align: center">
-
 *My logic network for $\text{Part II}$*
-
-</div>
-
-<br>
 
 ![](wiring.png)
 
-<div style="text-align: center">
-
 *My wireing diagram for $\text{Part II}$*
-
-</div>

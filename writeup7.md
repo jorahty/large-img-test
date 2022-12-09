@@ -98,19 +98,9 @@ forgetting to ground my NAND chips in $\text{Part II}$. If I were to do this
 lab again, I can't say I would do much differently.
 
 ## Appendix
-
 ![](logic.png)
-
-<div style="color: red">
-
 My logic network for $\text{Part II}$
-
-</div>
+<br>
 
 ![](wiring.png)
-  
-<div style="color: red">
-
 My wireing diagram for $\text{Part II}$
-
-</div>

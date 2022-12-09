@@ -99,8 +99,11 @@ lab again, I can't say I would do much differently.
 
 ## Appendix
 ![](logic.png)
+
 My logic network for $\text{Part II}$
+
 <br>
 
 ![](wiring.png)
+
 My wireing diagram for $\text{Part II}$

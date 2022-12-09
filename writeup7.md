@@ -101,8 +101,8 @@ lab again, I can't say I would do much differently.
 
 ![](logic.png)
 
-*My logic network for $\text{Part II}$*
+*My logic network for* $\text{Part II}$
 
 ![](wiring.png)
 
-*My wireing diagram for $\text{Part II}$*
+*My wireing diagram for* $\text{Part II}$
